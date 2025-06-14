@@ -40,5 +40,5 @@ go build .
 #### Запустить исполняемый файл
 
 ```shell
-./fibonacci
+./fibo
 ```
